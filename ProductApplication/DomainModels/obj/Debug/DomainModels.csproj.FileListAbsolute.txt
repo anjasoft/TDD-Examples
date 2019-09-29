@@ -1,0 +1,6 @@
+C:\Users\anja\Desktop\TDD\ProductApplication\DomainModels\bin\Debug\DomainModels.dll
+C:\Users\anja\Desktop\TDD\ProductApplication\DomainModels\bin\Debug\DomainModels.pdb
+C:\Users\anja\Desktop\TDD\ProductApplication\DomainModels\obj\Debug\DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\anja\Desktop\TDD\ProductApplication\DomainModels\obj\Debug\DomainModels.dll
+C:\Users\anja\Desktop\TDD\ProductApplication\DomainModels\obj\Debug\DomainModels.pdb
+C:\Users\anja\Desktop\TDD\ProductApplication\DomainModels\obj\Debug\DomainModels.csprojAssemblyReference.cache

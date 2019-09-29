@@ -1,0 +1,6 @@
+C:\Users\anja\Desktop\TDD\ProductApplication\SomeThirdPartyDbAccessThing\bin\Debug\SomeThirdPartyDbAccessThing.dll
+C:\Users\anja\Desktop\TDD\ProductApplication\SomeThirdPartyDbAccessThing\bin\Debug\SomeThirdPartyDbAccessThing.pdb
+C:\Users\anja\Desktop\TDD\ProductApplication\SomeThirdPartyDbAccessThing\obj\Debug\SomeThirdPartyDbAccessThing.csprojAssemblyReference.cache
+C:\Users\anja\Desktop\TDD\ProductApplication\SomeThirdPartyDbAccessThing\obj\Debug\SomeThirdPartyDbAccessThing.csproj.CoreCompileInputs.cache
+C:\Users\anja\Desktop\TDD\ProductApplication\SomeThirdPartyDbAccessThing\obj\Debug\SomeThirdPartyDbAccessThing.dll
+C:\Users\anja\Desktop\TDD\ProductApplication\SomeThirdPartyDbAccessThing\obj\Debug\SomeThirdPartyDbAccessThing.pdb

@@ -1,0 +1,16 @@
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\bin\Debug\DataLayer.Tests.dll
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\bin\Debug\DataLayer.Tests.pdb
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\bin\Debug\DataLayer.dll
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\bin\Debug\nunit.framework.dll
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\bin\Debug\SomeThirdPartyDbAccessThing.dll
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\bin\Debug\DataLayer.pdb
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\bin\Debug\SomeThirdPartyDbAccessThing.pdb
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\bin\Debug\nunit.framework.xml
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\obj\Debug\DataLayer.Tests.csprojAssemblyReference.cache
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\obj\Debug\DataLayer.Tests.csproj.CoreCompileInputs.cache
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\obj\Debug\DataLayer.Tests.csproj.CopyComplete
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\obj\Debug\DataLayer.Tests.dll
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\obj\Debug\DataLayer.Tests.pdb
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\bin\Debug\DomainModels.dll
+C:\Users\anja\Desktop\TDD\ProductApplication\DataLayer.Tests\bin\Debug\DomainModels.pdb
